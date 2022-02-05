@@ -13,7 +13,7 @@
 #include "radius.h"
 #include "log.h"
 
-#define VLAN_MAX_LENGTH 4
+#define VLAN_MAX_LENGTH 5
 
 #ifndef MSG_CONFIRM
 #define MSG_CONFIRM 0
